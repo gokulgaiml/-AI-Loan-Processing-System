@@ -1,0 +1,14 @@
+PERSONAL LOAN POLICY:
+- Minimum credit score: 650
+- Maximum loan: 20 times monthly income
+- Maximum tenure: 5 years
+- Debt-to-income ratio must be below 40%
+
+HOME LOAN POLICY:
+- Minimum credit score: 700
+- Maximum tenure: 25 years
+- Minimum annual income: 300000
+
+AUTO LOAN POLICY:
+- Minimum credit score: 600
+- Maximum tenure: 7 years
